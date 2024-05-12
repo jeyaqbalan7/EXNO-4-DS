@@ -1,4 +1,4 @@
-# EXP-04-DATASCIENCE
+# EXP-04-Feature Scaling and Selection
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
